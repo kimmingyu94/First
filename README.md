@@ -10,7 +10,7 @@ sudo apt update
 ```
 ### github 불러오기
 ```
-git clone https://github.com/sim0297/project name
+git clone https://github.com/username/repository
 cd project 
 ```
 #### file remove
@@ -30,7 +30,7 @@ git commit -m upload
 git config --global user.email "email"
 git config --global user.name "user name"
 ```
-py### github 업로드
+### github 업로드
 ```
 git push
 ```
